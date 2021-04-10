@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MaF7alish.
 - 👀 I’m interested in HyperCasual Game Developement.
 - 🌱 I’m currently learning C# and Unity.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Dev.MoHammedAlFakir@gmail.com
 
 <!---
