@@ -1,5 +1,10 @@
-Hello 👋 my Name is MoHammed AlFakir a Game Developer, 👀 developing games is my True passion. 🌱 I Have 1 Year+ Experience in Mobile Game Development using Unity With C#, I Make Various 3D and 2D Mobile Hyper Casual Games.
-And I'm still learning every day.
+Hi, my Name is MoHammed AlFakir, Front-end Web Developer, development is my real passion. I have 1 year+ experience in front end development using HTML/CSS and JS, one of the advantages I have is that I can learn quickly, and work with a team to solve the problems we will face.
+This is My Skills  :
+HTML/CSS/JS
+React JS
+Git
+Sass / TypeScript
+And I still learn every day.
 
 
 <!---
