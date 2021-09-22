@@ -5,6 +5,7 @@ This is My Skills  :
 HTML/CSS/JS
 React JS
 Git
+JQuery / Bootstrap
 Sass / TypeScript
 Figma (Software)
 
