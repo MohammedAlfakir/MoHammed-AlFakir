@@ -1,12 +1,5 @@
-Hi, my Name is MoHammed AlFakir, Front-end Web Developer & Designer , development is my real passion. I have 2 year+ experience in front end development using HTML/CSS and JS, and i could also design beautiful and professional-looking user interfaces, one of the advantages I have is that I can learn quickly, and work with a team to solve the problems we will face.
+Hi, my Name is MoHammed AlFakir, As a dedicated Front-End Developer with 2 Years of hands-on experience, I bring expertise in HTML,CSS, JS, REACT.JS, and NEXT.JS to the table. My journey in web development began with a passion for coding, which has evolved into a professional career focused on crafting intuitive and visually compelling user interfaces.
 
-This is My Skills  :
-
-HTML/CSS/JS
-React JS
-Git
-JQuery / Bootstrap
-Sass / TypeScript
-Figma (Software)
+Throughout my tenure, I've successfully delivered projects ranging from dynamic web applications to responsive websites, leveraging my proficiency in modern frameworks and best practices. I am committed to continuously enhancing my skills and staying updated with the latest industry trends to drive innovation and deliver high-quality solutions.
 
 And I still learn every day.
