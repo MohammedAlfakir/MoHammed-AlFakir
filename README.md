@@ -5,3 +5,4 @@ Throughout my tenure, I've successfully delivered projects ranging from dynamic 
 And I still learn every day.
 
 My Portfolio : https://mohammedalfakir.site
+My CV : https://mohammedalfakir.site/assets/Alfakir%20front-end%20web%20developer%20resume-Ce43qt5b.pdf
