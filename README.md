@@ -8,4 +8,3 @@
  projects.
  
 My Portfolio : https://mohammedalfakir.site
-My Resume : [Click Here](https://www.mohammedalfakir.site/MohammedAlfakirResume.pdf)
