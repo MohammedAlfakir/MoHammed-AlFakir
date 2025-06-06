@@ -1,4 +1,4 @@
- Passionate Full-Stack Developer skilled in React, Next.js, TypeScript, and Node.js, with
+ Passionate Full Stack Engineer skilled in React, Next.js, TypeScript, and Node.js, with
  a focus on building user-centered, high-quality web applications.
  
  Known for  there high quality user experience, commitment, and adaptability, I consistently deliver reliable
