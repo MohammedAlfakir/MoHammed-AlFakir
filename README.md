@@ -1,10 +1,9 @@
- Passionate Full Stack Engineer skilled in React, Next.js, TypeScript, and Node.js, with
- a focus on building user-centered, high-quality web applications.
- 
- Known for  there high quality user experience, commitment, and adaptability, I consistently deliver reliable
- solutions that drive impactful results and multiple functionalities.
- 
- I am continuously learning new technologies and advancing my skills through certifications and practical
- projects.
- 
-My Portfolio : https://mohammedalfakir.site
+Hi, I'm Mohammed 👋.
+
+A Lead Front-End Engineer who loves turning creative visions into tangible, high-quality code.
+
+My specialty is building with React & TypeScript, but my experience as a Full Stack Engineer gives me a unique end-to-end perspective on application development.
+I thrive on creating great user experiences and optimizing developer workflows.
+I recently helped a team accelerate their development speed by 20%.
+
+Feel free to explore my repositories!
